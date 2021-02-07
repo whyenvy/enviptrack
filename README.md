@@ -1,3 +1,8 @@
-# enviptrack
-<b>EnvIP-Track is an Python IP-Tracker</b>
+# Information
+<b>EnvIP-Track is an Python IP-Tracker</b> Learn more at https://github.com/whyenvy/enviptrack
+***Python is needed to run this program***
+
+# Requirements
+<p>- Python 3.7</p>
+<p>- An IDE</p>
 
