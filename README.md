@@ -6,3 +6,10 @@
 <p>- Python 3.7</p>
 <p>- An IDE</p>
 
+## Usage
+```
+python3 envip.py
+```
+
+***Made by envy#0449***
+***Credit NumeXx***
